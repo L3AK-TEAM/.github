@@ -6,11 +6,12 @@ We are a diverse group of cybersecurity enthusiasts hailing from different corne
 
 ## External References
 
-<p1>
+<p>
   <a href="https://ctftime.org/team/220336">
     <img height="65" width="200" align="left" src="https://github.com/L3AK-TEAM/.github/assets/102762345/f1b10b2b-a5eb-4f71-8030-43b4da32ee77">
   </a>
-</p1>
+</p>
+
 
 
 <!--https://ctftime.org/team/220336-->
