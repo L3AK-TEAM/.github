@@ -1,4 +1,4 @@
-![textanim-bVWXj](https://github.com/L3AK-TEAM/.github/assets/102762345/8532251d-b7b6-425e-b2be-de10a0d3e395)
+![what](https://github.com/L3AK-TEAM/.github/assets/102762345/d25deb1c-59c0-4e62-9f82-c29cb6feb72f)
 
 
 ## Who are we exactly ?
