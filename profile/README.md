@@ -1,7 +1,6 @@
 ## Welcome to L3ak CTF !
 
-![textanim-tHvjZ](https://github.com/L3AK-TEAM/.github/assets/102762345/1ba4c4fc-22e6-48a6-8e13-172bc34b80fb)
-
+![new](https://github.com/L3AK-TEAM/.github/assets/102762345/c4ceb268-b8ea-4128-bdc2-46f8b421fae1)
 
 ## Who are we exactly ?
 
