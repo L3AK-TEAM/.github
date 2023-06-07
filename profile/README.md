@@ -1,4 +1,4 @@
-![what](https://github.com/L3AK-TEAM/.github/assets/102762345/d25deb1c-59c0-4e62-9f82-c29cb6feb72f)
+![finally](https://github.com/L3AK-TEAM/.github/assets/102762345/6edc024d-e0b1-4188-8cc7-313311d2e2e1)
 
 
 ## Who are we exactly ?
