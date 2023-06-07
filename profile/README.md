@@ -7,8 +7,8 @@ We are a diverse group of cybersecurity enthusiasts hailing from different corne
 ## External References
 
 <p1>
-  <a href="https://github.com/L3AK-TEAM/.github/assets/102762345/f1b10b2b-a5eb-4f71-8030-43b4da32ee77">
-    <img height="180" width="180" align="right" src="https://github.com/L3AK-TEAM/.github/assets/102762345/f1b10b2b-a5eb-4f71-8030-43b4da32ee77">
+  <a href="https://ctftime.org/team/220336">
+    <img height="65" width="200" align="left" src="https://github.com/L3AK-TEAM/.github/assets/102762345/f1b10b2b-a5eb-4f71-8030-43b4da32ee77">
   </a>
 </p1>
 
