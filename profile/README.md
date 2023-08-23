@@ -1,6 +1,5 @@
 
-![www](https://github.com/L3AK-TEAM/.github/assets/102762345/d5402060-2487-4057-a43d-89333a060802)
-
+![wad](https://github.com/L3AK-TEAM/.github/assets/102762345/d6aee2d0-663f-451e-b2cb-abe9dd74ef6a)
 
 ## Who are we exactly ?
 
