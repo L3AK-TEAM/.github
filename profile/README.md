@@ -1,7 +1,7 @@
 
 ![wad](https://github.com/L3AK-TEAM/.github/assets/102762345/d6aee2d0-663f-451e-b2cb-abe9dd74ef6a)
 
-## Who are we exactly ?
+## 𝗪𝗵𝗼 𝗮𝗿𝗲 𝘄𝗲 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 ??
 
 We are a diverse group of cybersecurity enthusiasts hailing from different corners of the world. Our team was formed in March 2023 with the aim of improving our skills, solving challenging Capture The Flag (CTF) challenges, and exploring various aspects of cybersecurity together. 
 
@@ -23,5 +23,7 @@ Official Website: https://l3ak.org
 
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
-**DISCORD** 
-`0xnil` | `0x157` | `suvoni`
+<p1>
+  <img height="25" width="25" align="left" src="https://github.com/L3AK-TEAM/.github/assets/102762345/f060f43f-d093-41ae-a598-bd6dc01996bc">
+  0xnil | 0x157 | suvoni 
+</p1>
