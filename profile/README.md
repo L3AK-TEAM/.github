@@ -21,7 +21,7 @@ We are a diverse group of cybersecurity enthusiasts hailing from different corne
 Official Website: https://l3ak.org
 </p1>
 
-# 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
+## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
 **DISCORD** 
 `0xnil` | `0x157` | `suvoni`
