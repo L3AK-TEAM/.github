@@ -1,5 +1,4 @@
-
-![text](https://github.com/L3AK-TEAM/.github/assets/102762345/97581d55-96f4-45f3-9714-fce5249e2e11)
+![new1](https://github.com/L3AK-TEAM/.github/assets/102762345/13f01a85-3671-4e3f-b795-fa6cb2a3dabf)
 
 ## Who are we exactly ?
 
