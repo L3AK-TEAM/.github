@@ -6,12 +6,13 @@
 We are a diverse group of cybersecurity enthusiasts hailing from different corners of the world. Our team was formed in March 2023 with the aim of improving our skills, solving challenging Capture The Flag (CTF) challenges, and exploring various aspects of cybersecurity together. 
 ## External References
 <p1>
-  <img height="25" width="25" align="left" src="https://github.com/L3AK-TEAM/.github/assets/102762345/9a060993-b26a-46b0-8eae-09d0467dcc7c" > CTFtime: https://ctftime.org/team/220336 
-
+  <img height="25" width="25" align="left" src="https://github.com/L3AK-TEAM/.github/assets/102762345/9a060993-b26a-46b0-8eae-09d0467dcc7c"> 
+  
+  CTFtime: https://ctftime.org/team/220336 
 </p1>
-
+<p1><p1>
 <p1>
-  <img height="25" width="25" align="left" src="https://github.com/L3AK-TEAM/.github/assets/102762345/7ef8a896-d7d3-4fdf-81e1-57c1bd276208" >
+  <img height="25" width="25" align="left" src="https://github.com/L3AK-TEAM/.github/assets/102762345/7ef8a896-d7d3-4fdf-81e1-57c1bd276208">
 Official Website: https://l3ak.org
 </p1>
 
