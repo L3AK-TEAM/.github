@@ -18,7 +18,7 @@ We are a diverse group of cybersecurity enthusiasts hailing from different corne
 
 <p1>
   <img height="25" width="25" align="left" src="https://github.com/L3AK-TEAM/.github/assets/102762345/7ef8a896-d7d3-4fdf-81e1-57c1bd276208">
-Official Website: https://l3ak.org
+Official Website: https://l3ak.team
 </p1>
 
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
