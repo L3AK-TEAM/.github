@@ -1,6 +1,6 @@
 
 <p1>
-  <img src="https://github.com/L3AK-TEAM/.github/assets/102762345/658fa956-ec3e-4c07-8cef-07a3a1ab1f19"> 
+  <img src="https://github.com/L3AK-TEAM/.github/assets/102762345/b9efbab1-714e-4f5c-9638-7908706201e7"> 
 </p1>
 <p1><p1>
 
