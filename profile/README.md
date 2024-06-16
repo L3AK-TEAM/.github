@@ -10,9 +10,8 @@ We are a diverse group of cybersecurity enthusiasts hailing from different corne
 
 ## 𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝗹 𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀
 
-<p1>
-  CTFtime: https://ctftime.org/team/220336 
-</p1>
+### https://ctftime.org/team/220336 
+
 <p1><p1>
 
 ## 𝗪𝗲𝗯𝘀𝗶𝘁𝗲 / 𝗕𝗹𝗼𝗴 
@@ -24,5 +23,5 @@ We are a diverse group of cybersecurity enthusiasts hailing from different corne
 ## 𝗖𝗼𝗻𝘁𝗮𝗰𝘁
 
 <p1>
-  𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲𝘀: 𝟬𝘅𝗻𝗶𝗹 || 𝟬𝘅𝟭𝟱𝟳 || 𝘀𝘂𝘃𝗼𝗻𝗶
+  𝗗𝗶𝘀𝗰𝗼𝗿𝗱 𝗨𝘀𝗲𝗿𝗻𝗮𝗺𝗲𝘀: 𝟬𝘅𝗻𝗶𝗹 | 𝟬𝘅𝟭𝟱𝟳 | 𝘀𝘂𝘃𝗼𝗻𝗶
 </p1>
