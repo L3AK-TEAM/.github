@@ -1,6 +1,6 @@
 
 <p1>
-  <img height="300" width="600" align="right" src="https://github.com/L3AK-TEAM/.github/assets/102762345/d428ba9e-06e2-45a1-86af-9be14bbc572f"> 
+  <img src="https://github.com/L3AK-TEAM/.github/assets/102762345/1f560332-2cd3-4166-be67-144c5ed8e578"> 
 </p1>
 <p1><p1>
 
