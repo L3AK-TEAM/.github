@@ -1,5 +1,8 @@
 
-<img src="https://github.com/L3AK-TEAM/.github/assets/102762345/d428ba9e-06e2-45a1-86af-9be14bbc572f" style="display: block; margin-left: auto; margin-right: auto;">
+<p1>
+  <img align="middle" src="https://github.com/L3AK-TEAM/.github/assets/102762345/d428ba9e-06e2-45a1-86af-9be14bbc572f"> 
+</p1>
+<p1><p1>
 
 ## 𝗪𝗵𝗼 𝗮𝗿𝗲 𝘄𝗲 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 ??
 
