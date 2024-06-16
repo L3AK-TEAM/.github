@@ -1,6 +1,4 @@
 
-![wad](https://github.com/L3AK-TEAM/.github/assets/102762345/d6aee2d0-663f-451e-b2cb-abe9dd74ef6a)
-
 ![test](https://github.com/L3AK-TEAM/.github/assets/102762345/d428ba9e-06e2-45a1-86af-9be14bbc572f)
 
 
