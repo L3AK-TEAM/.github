@@ -1,8 +1,9 @@
 
-<p1>
-  <img align="right" src="https://github.com/L3AK-TEAM/.github/assets/102762345/d428ba9e-06e2-45a1-86af-9be14bbc572f"> 
-</p1>
+<center>
+  <img src="https://github.com/L3AK-TEAM/.github/assets/102762345/d428ba9e-06e2-45a1-86af-9be14bbc572f">
+</center>
 
+---
 
 ## 𝗪𝗵𝗼 𝗮𝗿𝗲 𝘄𝗲 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 ??
 
