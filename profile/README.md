@@ -1,7 +1,4 @@
 
-<p1>
-  <img src="https://github.com/L3AK-TEAM/.github/assets/102762345/51f84c44-6c15-4905-8034-53556340eef0"> 
-</p1>
 <p1><p1>
 
 ## 𝗪𝗵𝗼 𝗮𝗿𝗲 𝘄𝗲 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 ??
