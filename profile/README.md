@@ -1,9 +1,9 @@
 
 <p1><p1>
 
-## 𝗪𝗵𝗼 𝗮𝗿𝗲 𝘄𝗲 𝗲𝘅𝗮𝗰𝘁𝗹𝘆 ??
+## 𝗪𝗵𝗼 𝗮𝗿𝗲 𝘄𝗲 𝗲𝘅𝗮𝗰𝘁𝗹𝘆?
 
-We are a diverse group of cybersecurity enthusiasts hailing from different corners of the world. Our team was formed in March 2023 with the aim of improving our skills, solving challenging Capture The Flag (CTF) challenges, and exploring various aspects of cybersecurity together. 
+L3ak is a diverse group of cybersecurity enthusiasts hailing from different corners of the world. Our team was formed in March 2023 with the aim of improving our skills, solving challenging Capture The Flag (CTF) challenges, and exploring various aspects of cybersecurity together.
 
 ## 𝗘𝘅𝘁𝗲𝗿𝗻𝗮𝗹 𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝘀
 
